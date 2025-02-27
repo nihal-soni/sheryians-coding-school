@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "eUOOXe66auTIeNlfoVF5t",
+      "type": "text",
+      "x": 460,
+      "y": 76,
+      "width": 1041.54541015625,
+      "height": 48.66244433974631,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b8X",
+      "roundness": null,
+      "seed": 60011168,
+      "version": 236,
+      "versionNonce": 883525280,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1740638720242,
+      "link": null,
+      "locked": false,
+      "text": "Sheryians coding school Frontend - Development -playist ",
+      "fontSize": 42.31516899108375,
+      "fontFamily": 7,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Sheryians coding school Frontend - Development -playist ",
+      "autoResize": true,
+      "lineHeight": 1.15
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
